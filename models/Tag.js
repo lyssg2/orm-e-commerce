@@ -1,3 +1,4 @@
+const M = require('minimatch');
 const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection');
@@ -10,8 +11,8 @@ Tag.init({
         alllowNull: false,
         primaryKey: true,
         autoIncrement: true
-    }
-}, {
+    },
+
     tag_name: {
         type: DataTypes.STRING,
     }

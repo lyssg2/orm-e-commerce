@@ -21,11 +21,11 @@ By using Insomnia, a user can easily guide through the company's database to loo
 
 ## Technologies
 
-[MySQL2](https://www.npmjs.com/package/mysql2)
-[dotenv](https://www.npmjs.com/package/dotenv)
-[Sequelize](https://www.npmjs.com/package/sequelize)
-[Insomnia](https://insomnia.rest/)
-[Express.js](https://www.npmjs.com/package/express)
+- [MySQL2](https://www.npmjs.com/package/mysql2)
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [Sequelize](https://www.npmjs.com/package/sequelize)
+- [Insomnia](https://insomnia.rest/)
+- [Express.js](https://www.npmjs.com/package/express)
 
 
 ## Video
